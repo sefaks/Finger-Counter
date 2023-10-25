@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FingerCounter", "FingerCounter.pyproj", "{4FE5D76E-44B9-4514-8F8A-F5147101F1FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{F93A6BB0-F587-4BA3-A33F-75A481C529AB}"
+	ProjectSection(SolutionItems) = preProject
+		HandTrack.py = HandTrack.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE5D76E-44B9-4514-8F8A-F5147101F1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE5D76E-44B9-4514-8F8A-F5147101F1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B086404-D697-4FFE-8294-128A56FDF5FF}
+	EndGlobalSection
+EndGlobal
